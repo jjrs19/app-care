@@ -1,0 +1,8 @@
+{
+  "name": "app care",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "8af35c5d"
+}
